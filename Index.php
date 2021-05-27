@@ -1,3 +1,4 @@
+
 <?php
 /* Estos son los cambios de Carlos Miranda*/
 
@@ -10,3 +11,6 @@ $prueba = 5;
 
 
 ?>
+
+/* Estos son los cambios de Carlos Miranda*/
+
